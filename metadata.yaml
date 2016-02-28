@@ -1,0 +1,25 @@
+_repo: The-Story-of-the-Soil-from-the-Basis-of-Absolute-Science-and-Real-Life-_4527
+creator:
+  author:
+    agent_name: Hopkins, Cyril G. (Cyril George)
+    aliases:
+    - Hopkins, C. G. (Cyril George)
+    - Hopkins, Cyril George
+    birthdate: 1866
+    deathdate: 1919
+    gutenberg_agent_id: '1493'
+    url: http://www.gutenberg.org/2009/agents/1493
+description: ''
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4527'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'S'
+- !lcsh 'Soils'
+title: The Story of the Soil; from the Basis of Absolute Science and Real Life,
+url: http://www.gutenberg.org/ebooks/4527
