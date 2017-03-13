@@ -1,5 +1,8 @@
 _repo: The-Story-of-the-Soil-from-the-Basis-of-Absolute-Science-and-Real-Life-_4527
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hopkins, Cyril G. (Cyril George)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '1493'
     url: http://www.gutenberg.org/2009/agents/1493
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4527#The-Story-of-the-Soil-from-the-Basis-of-Absolute-Science-and-Real-Life-
 gutenberg_issued: '2003-10-01'
 gutenberg_type: Text
 identifiers:
